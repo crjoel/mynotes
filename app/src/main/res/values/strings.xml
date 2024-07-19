@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="tb_title">Mi Lista de Tareas</string>
+    <string name="delete_task">Eliminar tarea</string>
+</resources>
